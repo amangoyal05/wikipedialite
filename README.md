@@ -11,5 +11,5 @@ The reposistory consists of:<br>
   </ul>
  <hr>
  <p>
-<b>encyclopedia</b>
+# <b>encyclopedia</b>
   This folder contains the main portion of our code.
