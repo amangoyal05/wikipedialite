@@ -12,4 +12,4 @@ The reposistory consists of:<br>
  <hr>
  <p>
 <b>encyclopedia</b><br>
-  This folder contains the main portion of our code.
+  This folder contains the main portion of our code. It contains
