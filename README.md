@@ -9,7 +9,18 @@ The reposistory consists of:<br>
     <li>db.sqlite3</li>
     <li>manage.py</li>
   </ul>
- <hr>
- <p>
-<b>encyclopedia</b><br>
-  This folder contains the main portion of our code. It contains
+<br>
+This webpage offers a user to search information, view a random page, create a page and edit the page.
+<hr>
+<p>
+  <b>encyclopedia</b><br>
+    It is the application of our project. This folder contains the main portion of our code. It is the main root of our project which glues everything together. All the features, from searching to creating a new page, editing it, this folder contains the code for that.
+</p>
+<p>
+  <b>entries</b><br>
+    This folder holds all the information related pages that have been pre-created or created by new users. For eg, <b>Git.md</b> provides user with information regarding Git (just an example).
+</p>
+<p>
+  <b>wiki</b><br>
+  This is our main application directory.
+</p><hr>
